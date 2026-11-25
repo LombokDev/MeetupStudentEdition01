@@ -1,4 +1,4 @@
-# Laporan Kegiatan — Lombok Dev Meetup: Student Edition
+# Laporan Kegiatan Lombok Dev Meetup: Student Edition #1
 
 > *"Dari Mahasiswa untuk Mahasiswa: Membangun Ekosistem Kolaborasi Teknologi Lintas Kampus di Lombok"*
 >
